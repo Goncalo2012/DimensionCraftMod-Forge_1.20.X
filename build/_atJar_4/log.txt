@@ -1,0 +1,7 @@
+Java Launcher: C:\Program Files\Java\jdk-17\bin\java.exe
+Arguments: '--inJar, C:\Users\soare\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.20.1-47.3.5\forge-1.20.1-47.3.5-injected.jar, --outJar, C:\Users\soare\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.20.1-47.3.5_mapped_parchment_2023.09.03-1.20.1\forge-1.20.1-47.3.5_mapped_parchment_2023.09.03-1.20.1.jar, --logFile, accesstransform.log, --atFile, E:\MineMods\MyMod-1.20.X\Forge-1.20.X\build\_atJar_4\parent_at.cfg'
+Classpath:
+ - C:\Users\soare\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\accesstransformers\8.2.0\accesstransformers-8.2.0-fatjar.jar
+Working directory: E:\MineMods\MyMod-1.20.X\Forge-1.20.X\build\_atJar_4
+Main class: net.minecraftforge.accesstransformer.TransformerProcessor
+====================================
